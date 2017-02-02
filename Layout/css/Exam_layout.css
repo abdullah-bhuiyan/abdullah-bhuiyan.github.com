@@ -1,0 +1,121 @@
+*{margin: 0;padding: 0;}
+
+.s_logo{
+    min-height: 20px;
+    width: 10%;
+    background-color: darkturquoise;
+    float: right;    
+    margin-right: 1%;}
+
+.content{
+    min-height: 700px;
+    width: 100%;
+    background-color: lightgrey;
+    float: left;
+    border: 1px solid black;}
+
+.logo{
+    min-height: 64px;
+    width: 10%;
+    background-color: aqua;
+    float: left;
+    margin-top: 6px;}
+
+.banner{
+    min-height: 64px;
+    width: 60%;
+    background-color: aquamarine;
+    margin-left: 1%;
+    margin-top: 6px;
+    float: left;}
+
+.search_box{
+    min-height:30px;
+    width: 10%;background-color: antiquewhite;
+    margin-top: 6px;
+    float: right;
+    margin-right: 18% }
+
+.search_option{
+    min-height:30px;
+    width: 10%;
+    background-color: lawngreen;    
+    margin-top: 4px;
+    float: right;
+    margin-right: 18%; }
+
+.user_name{
+    min-height: 64px;
+    width: 16.5%;
+    background-color: blueviolet;    
+    float: right;
+    margin-right: 1%;
+    margin-top: -64px;}
+
+.left_menu{
+    min-height: 360px;
+    width: 10%;
+    background-color: blue;
+    margin-top: 78px;}
+
+.left_s_menu{
+    min-height: 200px;
+    width: 10%;
+    background-color:chocolate ;
+    margin-top: 5px;}
+
+.mid_menu{    
+    min-height: 49px;
+    width: 71%;
+    background-color: #2c846a;
+    float: left;
+    margin-left: 11%;
+    margin-top: -565px;}
+
+.s_menu{    
+    min-height: 20px;
+    width: 36%;
+    background-color: #753b69;
+    margin-left: 11%;
+    margin-top: -511px;}
+
+.main_content{   
+    min-height: 483px;
+    width: 70.6%;
+    border: 1px solid red;
+    margin-left: 11%;
+    margin-top: 6px;}
+
+.mid_banner{    
+    min-height: 180px;
+    width: 99%;
+    background-color: cadetblue;
+   
+    margin-top: 3px;
+    margin-left: 0.5%;}
+
+.right_menu{   
+    min-height: 264px;
+    width: 16.3%;
+    background-color: cornflowerblue;
+    float: right;
+    margin-top: -565px;
+    margin-right: 1%;}
+
+.right_s_menu{    
+    min-height: 293px;
+    width: 16.3%;
+    background-color: burlywood;
+    
+    float: right;
+    margin-top: -293px;
+    margin-right: 1%;}
+
+.footer{    
+    min-height: 47px;
+    width: 99%;
+    background-color: crimson;
+    margin-top: 6px;}
+.text{
+    text-align:center;
+}
